@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gordon Pennycook | Jennifer Allen</title>
+    <link>https://example.com/authors/gordon-pennycook/</link>
+      <atom:link href="https://example.com/authors/gordon-pennycook/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gordon Pennycook</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_huf7cb82839726509036d215b54a11f2ed_24457_512x512_fill_lanczos_center_3.png</url>
+      <title>Gordon Pennycook</title>
+      <link>https://example.com/authors/gordon-pennycook/</link>
+    </image>
+    
+    <item>
+      <title>Scaling up fact-checking using the wisdom of crowds</title>
+      <link>https://example.com/publication/allen-2021-scaling/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/allen-2021-scaling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

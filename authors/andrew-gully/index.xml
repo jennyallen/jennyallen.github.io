@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Gully | Jennifer Allen</title>
+    <link>https://example.com/authors/andrew-gully/</link>
+      <atom:link href="https://example.com/authors/andrew-gully/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrew Gully</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_huf7cb82839726509036d215b54a11f2ed_24457_512x512_fill_lanczos_center_3.png</url>
+      <title>Andrew Gully</title>
+      <link>https://example.com/authors/andrew-gully/</link>
+    </image>
+    
+    <item>
+      <title>Understanding and reducing online misinformation across 16 countries on six continents</title>
+      <link>https://example.com/publication/arechar-2022-understanding/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/arechar-2022-understanding/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

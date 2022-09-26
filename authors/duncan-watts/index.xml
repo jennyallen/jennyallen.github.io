@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Duncan Watts | Jennifer Allen</title>
+    <link>https://example.com/authors/duncan-watts/</link>
+      <atom:link href="https://example.com/authors/duncan-watts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Duncan Watts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_huf7cb82839726509036d215b54a11f2ed_24457_512x512_fill_lanczos_center_3.png</url>
+      <title>Duncan Watts</title>
+      <link>https://example.com/authors/duncan-watts/</link>
+    </image>
+    
+    <item>
+      <title>Research note: Examining potential bias in large-scale censored data</title>
+      <link>https://example.com/publication/allen-2021-research/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/allen-2021-research/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
