@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David G Rand | Jennifer Allen</title>
-    <link>https://example.com/authors/david-g-rand/</link>
-      <atom:link href="https://example.com/authors/david-g-rand/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jennyallen.github.io/authors/david-g-rand/</link>
+      <atom:link href="https://jennyallen.github.io/authors/david-g-rand/index.xml" rel="self" type="application/rss+xml" />
     <description>David G Rand</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_huf7cb82839726509036d215b54a11f2ed_24457_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jennyallen.github.io/media/icon_huf7cb82839726509036d215b54a11f2ed_24457_512x512_fill_lanczos_center_3.png</url>
       <title>David G Rand</title>
-      <link>https://example.com/authors/david-g-rand/</link>
+      <link>https://jennyallen.github.io/authors/david-g-rand/</link>
     </image>
     
     <item>
       <title>Birds of a feather don’t fact-check each other: Partisanship and the evaluation of news in Twitter’s Birdwatch crowdsourced fact-checking program</title>
-      <link>https://example.com/publication/allen-2022-birds/</link>
+      <link>https://jennyallen.github.io/publication/allen-2022-birds/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/allen-2022-birds/</guid>
+      <guid>https://jennyallen.github.io/publication/allen-2022-birds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scaling up fact-checking using the wisdom of crowds</title>
-      <link>https://example.com/publication/allen-2021-scaling/</link>
+      <link>https://jennyallen.github.io/publication/allen-2021-scaling/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/allen-2021-scaling/</guid>
+      <guid>https://jennyallen.github.io/publication/allen-2021-scaling/</guid>
       <description></description>
     </item>
     

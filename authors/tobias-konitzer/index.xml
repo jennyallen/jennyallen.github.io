@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tobias Konitzer | Jennifer Allen</title>
-    <link>https://example.com/authors/tobias-konitzer/</link>
-      <atom:link href="https://example.com/authors/tobias-konitzer/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jennyallen.github.io/authors/tobias-konitzer/</link>
+      <atom:link href="https://jennyallen.github.io/authors/tobias-konitzer/index.xml" rel="self" type="application/rss+xml" />
     <description>Tobias Konitzer</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_huf7cb82839726509036d215b54a11f2ed_24457_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jennyallen.github.io/media/icon_huf7cb82839726509036d215b54a11f2ed_24457_512x512_fill_lanczos_center_3.png</url>
       <title>Tobias Konitzer</title>
-      <link>https://example.com/authors/tobias-konitzer/</link>
+      <link>https://jennyallen.github.io/authors/tobias-konitzer/</link>
     </image>
     
     <item>
       <title>Comparing estimates of news consumption from survey and passively collected behavioral data</title>
-      <link>https://example.com/publication/konitzer-2021-comparing/</link>
+      <link>https://jennyallen.github.io/publication/konitzer-2021-comparing/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/konitzer-2021-comparing/</guid>
+      <guid>https://jennyallen.github.io/publication/konitzer-2021-comparing/</guid>
       <description></description>
     </item>
     

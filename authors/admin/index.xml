@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jennifer Allen</title>
-    <link>https://example.com/authors/admin/</link>
-      <atom:link href="https://example.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jennyallen.github.io/authors/admin/</link>
+      <atom:link href="https://jennyallen.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Jennifer Allen</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/authors/admin/avatar_huda949470817489a7e54656960b891465_186576_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://jennyallen.github.io/authors/admin/avatar_huda949470817489a7e54656960b891465_186576_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jennifer Allen</title>
-      <link>https://example.com/authors/admin/</link>
+      <link>https://jennyallen.github.io/authors/admin/</link>
     </image>
     
     <item>
       <title>Addendum to: Research note: Examining potential bias in large-scale censored data</title>
-      <link>https://example.com/publication/allen-2022-addendum/</link>
+      <link>https://jennyallen.github.io/publication/allen-2022-addendum/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/allen-2022-addendum/</guid>
+      <guid>https://jennyallen.github.io/publication/allen-2022-addendum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Birds of a feather don’t fact-check each other: Partisanship and the evaluation of news in Twitter’s Birdwatch crowdsourced fact-checking program</title>
-      <link>https://example.com/publication/allen-2022-birds/</link>
+      <link>https://jennyallen.github.io/publication/allen-2022-birds/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/allen-2022-birds/</guid>
+      <guid>https://jennyallen.github.io/publication/allen-2022-birds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding and reducing online misinformation across 16 countries on six continents</title>
-      <link>https://example.com/publication/arechar-2022-understanding/</link>
+      <link>https://jennyallen.github.io/publication/arechar-2022-understanding/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/arechar-2022-understanding/</guid>
+      <guid>https://jennyallen.github.io/publication/arechar-2022-understanding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparing estimates of news consumption from survey and passively collected behavioral data</title>
-      <link>https://example.com/publication/konitzer-2021-comparing/</link>
+      <link>https://jennyallen.github.io/publication/konitzer-2021-comparing/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/konitzer-2021-comparing/</guid>
+      <guid>https://jennyallen.github.io/publication/konitzer-2021-comparing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research note: Examining potential bias in large-scale censored data</title>
-      <link>https://example.com/publication/allen-2021-research/</link>
+      <link>https://jennyallen.github.io/publication/allen-2021-research/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/allen-2021-research/</guid>
+      <guid>https://jennyallen.github.io/publication/allen-2021-research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scaling up fact-checking using the wisdom of crowds</title>
-      <link>https://example.com/publication/allen-2021-scaling/</link>
+      <link>https://jennyallen.github.io/publication/allen-2021-scaling/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/allen-2021-scaling/</guid>
+      <guid>https://jennyallen.github.io/publication/allen-2021-scaling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://jennyallen.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://jennyallen.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -140,25 +140,25 @@
     
     <item>
       <title>Evaluating the fake news problem at the scale of the information ecosystem</title>
-      <link>https://example.com/publication/allen-2020-evaluating/</link>
+      <link>https://jennyallen.github.io/publication/allen-2020-evaluating/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/allen-2020-evaluating/</guid>
+      <guid>https://jennyallen.github.io/publication/allen-2020-evaluating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expanding the scope of reproducibility research through data analysis replications</title>
-      <link>https://example.com/publication/hofman-2020-expanding/</link>
+      <link>https://jennyallen.github.io/publication/hofman-2020-expanding/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hofman-2020-expanding/</guid>
+      <guid>https://jennyallen.github.io/publication/hofman-2020-expanding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interdependence and the cost of uncoordinated responses to COVID-19</title>
-      <link>https://example.com/publication/holtz-2020-interdependence/</link>
+      <link>https://jennyallen.github.io/publication/holtz-2020-interdependence/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/holtz-2020-interdependence/</guid>
+      <guid>https://jennyallen.github.io/publication/holtz-2020-interdependence/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mohammad Amin Rahimian | Jennifer Allen</title>
-    <link>https://example.com/authors/mohammad-amin-rahimian/</link>
-      <atom:link href="https://example.com/authors/mohammad-amin-rahimian/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jennyallen.github.io/authors/mohammad-amin-rahimian/</link>
+      <atom:link href="https://jennyallen.github.io/authors/mohammad-amin-rahimian/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohammad Amin Rahimian</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_huf7cb82839726509036d215b54a11f2ed_24457_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jennyallen.github.io/media/icon_huf7cb82839726509036d215b54a11f2ed_24457_512x512_fill_lanczos_center_3.png</url>
       <title>Mohammad Amin Rahimian</title>
-      <link>https://example.com/authors/mohammad-amin-rahimian/</link>
+      <link>https://jennyallen.github.io/authors/mohammad-amin-rahimian/</link>
     </image>
     
     <item>
       <title>Interdependence and the cost of uncoordinated responses to COVID-19</title>
-      <link>https://example.com/publication/holtz-2020-interdependence/</link>
+      <link>https://jennyallen.github.io/publication/holtz-2020-interdependence/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/holtz-2020-interdependence/</guid>
+      <guid>https://jennyallen.github.io/publication/holtz-2020-interdependence/</guid>
       <description></description>
     </item>
     

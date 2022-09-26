@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Jennifer Allen</title>
-    <link>https://example.com/publication-type/1/</link>
-      <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jennyallen.github.io/publication-type/1/</link>
+      <atom:link href="https://jennyallen.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_huf7cb82839726509036d215b54a11f2ed_24457_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jennyallen.github.io/media/icon_huf7cb82839726509036d215b54a11f2ed_24457_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>https://example.com/publication-type/1/</link>
+      <link>https://jennyallen.github.io/publication-type/1/</link>
     </image>
     
     <item>
       <title>Birds of a feather don’t fact-check each other: Partisanship and the evaluation of news in Twitter’s Birdwatch crowdsourced fact-checking program</title>
-      <link>https://example.com/publication/allen-2022-birds/</link>
+      <link>https://jennyallen.github.io/publication/allen-2022-birds/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/allen-2022-birds/</guid>
+      <guid>https://jennyallen.github.io/publication/allen-2022-birds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expanding the scope of reproducibility research through data analysis replications</title>
-      <link>https://example.com/publication/hofman-2020-expanding/</link>
+      <link>https://jennyallen.github.io/publication/hofman-2020-expanding/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hofman-2020-expanding/</guid>
+      <guid>https://jennyallen.github.io/publication/hofman-2020-expanding/</guid>
       <description></description>
     </item>
     
