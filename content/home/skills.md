@@ -12,6 +12,8 @@ weight: 30
 title: Skills
 subtitle:
 
+active: false
+
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
