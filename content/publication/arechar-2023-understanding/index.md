@@ -1,22 +1,27 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Expanding the scope of reproducibility research through data analysis replications
+title: Understanding and combatting misinformation across 16 countries on six continents
 subtitle: ''
 summary: ''
 authors:
-- Jake M Hofman
-- Daniel G Goldstein
-- Siddhartha Sen
-- Forough Poursabzi-Sandegh
+- Antonio A Arechar
 - admin
+- Adam J Berinsky
+- Rocky Cole
+- Ziv Epstein
+- Kiran Garimella
+- Andrew Gully
+- Jackson G Lu
+- Robert M Ross
+- Michael N Stagnaro
+- ' others'
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2022-09-25T19:02:02-04:00
+date: '2023-01-01'
+lastmod: 2023-07-19T17:49:52-04:00
 featured: false
 draft: false
-url_pdf: http://www.compsocialscience.org/pdfs/data-analysis-replications.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -32,9 +37,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-25T23:02:02.001713Z'
+publishDate: '2023-07-19T21:54:09.490975Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*Companion Proceedings of the Web Conference 2020*'
+publication: '*Nature Human Behaviour*'
 ---

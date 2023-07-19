@@ -1,29 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Understanding and reducing online misinformation across 16 countries on six
-  continents
+title: Crowds can effectively identify misinformation at scale
 subtitle: ''
 summary: ''
 authors:
-- Antonio Alonso Arechar
+- Cameron Martel
 - admin
-- Rocky Cole
-- Ziv Epstein
-- Kiran Garimella
-- Andrew Gully
-- Jackson G Lu
-- Robert M Ross
-- Michael Stagnaro
-- Jerry Zhang
-- ' others'
+- Gordon Pennycook
+- David Rand
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-09-25T19:02:03-04:00
+lastmod: 2023-07-19T17:49:52-04:00
 featured: false
 draft: false
-url_pdf: https://psyarxiv.com/a9frz/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-25T23:02:02.961490Z'
+publishDate: '2023-07-19T21:54:09.155785Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*PsyArXiv*'
+publication: '*Forthcoming at Perspectives on Psychological Science*'
 ---

@@ -12,10 +12,9 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-09-25T19:02:02-04:00
+lastmod: 2023-07-19T17:49:51-04:00
 featured: false
 draft: false
-url_pdf: https://misinforeview.hks.harvard.edu/wp-content/uploads/2021/07/allen_bias_censored_data_20210726.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -31,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-25T23:02:02.306501Z'
+publishDate: '2023-07-19T21:54:08.691707Z'
 publication_types:
 - '2'
 abstract: ''

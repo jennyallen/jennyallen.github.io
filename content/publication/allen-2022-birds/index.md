@@ -12,10 +12,9 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-09-25T19:02:02-04:00
+lastmod: 2023-07-19T17:49:51-04:00
 featured: false
 draft: false
-url_pdf: https://dl.acm.org/doi/pdf/10.1145/3491102.3502040
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -31,9 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-25T23:02:02.656854Z'
+publishDate: '2023-07-19T21:54:08.859366Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*CHI Conference on Human Factors in Computing Systems*'
+publication: '*Proceedings of the 2022 CHI Conference on Human Factors in Computing
+  Systems*'
 ---

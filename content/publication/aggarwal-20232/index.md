@@ -1,19 +1,25 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Evaluating the fake news problem at the scale of the information ecosystem
+title: A 2 million-person, campaign-wide field experiment shows how digital advertising
+  affects voter turnout
 subtitle: ''
 summary: ''
 authors:
 - admin
-- Baird Howland
-- Markus Mobius
-- David Rothschild
-- Duncan J Watts
+- Minali Aggarwal
+- Alexander Coppock
+- Dan Frankowski
+- Solomon Messing
+- Kelly Zhang
+- James Barnes
+- Andrew Beasley
+- Harry Hantman
+- Sylvan Zheng
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2023-07-19T17:49:50-04:00
+date: '2023-01-01'
+lastmod: 2023-07-19T17:49:52-04:00
 featured: false
 draft: false
 
@@ -31,9 +37,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-19T21:54:07.788342Z'
+publishDate: '2023-07-19T21:54:09.319617Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Science advances*'
+publication: '*Nature Human Behaviour*'
 ---

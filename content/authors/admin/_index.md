@@ -67,7 +67,7 @@ email: ''
 highlight_name: true
 ---
 
-I'm a 4th Year PhD Student in Marketing at MIT Sloan School of Management. My research interests include misinformation, political persuasion, and crowdsourcing. I'm advised by [David Rand](https://davidrand-cooperation.com/). 
+I'm a 5th Year PhD Student in Marketing at MIT Sloan School of Management. My research interests include misinformation, political persuasion, and crowdsourcing. I'm advised by [David Rand](https://davidrand-cooperation.com/). 
 
 Prior to MIT, I worked as a software engineer at Meta on the News team, and as a research assistant at Microsoft Research with the Computational Social Science Group. Before that, I graduated from Yale in 2016 with a BA in Computer Science and Psychology.
 

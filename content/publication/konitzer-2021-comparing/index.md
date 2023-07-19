@@ -16,10 +16,9 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-09-25T19:02:01-04:00
+lastmod: 2023-07-19T17:49:51-04:00
 featured: false
 draft: false
-url_pdf: https://www.stepheckman.com/files/Konitzer_etal_NewsConsumption.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -35,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-25T23:02:00.786466Z'
+publishDate: '2023-07-19T21:54:08.106213Z'
 publication_types:
 - '2'
 abstract: ''
