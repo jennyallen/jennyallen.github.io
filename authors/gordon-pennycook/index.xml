@@ -5,12 +5,20 @@
     <link>https://jennyallen.github.io/authors/gordon-pennycook/</link>
       <atom:link href="https://jennyallen.github.io/authors/gordon-pennycook/index.xml" rel="self" type="application/rss+xml" />
     <description>Gordon Pennycook</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jennyallen.github.io/media/icon_huf7cb82839726509036d215b54a11f2ed_24457_512x512_fill_lanczos_center_3.png</url>
       <title>Gordon Pennycook</title>
       <link>https://jennyallen.github.io/authors/gordon-pennycook/</link>
     </image>
+    
+    <item>
+      <title>Crowds can effectively identify misinformation at scale</title>
+      <link>https://jennyallen.github.io/publication/martel-2022-crowds/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jennyallen.github.io/publication/martel-2022-crowds/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Scaling up fact-checking using the wisdom of crowds</title>

@@ -5,12 +5,20 @@
     <link>https://jennyallen.github.io/authors/antonio-a-arechar/</link>
       <atom:link href="https://jennyallen.github.io/authors/antonio-a-arechar/index.xml" rel="self" type="application/rss+xml" />
     <description>Antonio A Arechar</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jennyallen.github.io/media/icon_huf7cb82839726509036d215b54a11f2ed_24457_512x512_fill_lanczos_center_3.png</url>
       <title>Antonio A Arechar</title>
       <link>https://jennyallen.github.io/authors/antonio-a-arechar/</link>
     </image>
+    
+    <item>
+      <title>Understanding and combatting misinformation across 16 countries on six continents</title>
+      <link>https://jennyallen.github.io/publication/arechar-2023-understanding/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jennyallen.github.io/publication/arechar-2023-understanding/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Scaling up fact-checking using the wisdom of crowds</title>

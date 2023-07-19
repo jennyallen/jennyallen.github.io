@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sylvan Zheng | Jennifer Allen</title>
+    <link>https://jennyallen.github.io/authors/sylvan-zheng/</link>
+      <atom:link href="https://jennyallen.github.io/authors/sylvan-zheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sylvan Zheng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jennyallen.github.io/media/icon_huf7cb82839726509036d215b54a11f2ed_24457_512x512_fill_lanczos_center_3.png</url>
+      <title>Sylvan Zheng</title>
+      <link>https://jennyallen.github.io/authors/sylvan-zheng/</link>
+    </image>
+    
+    <item>
+      <title>A 2 million-person, campaign-wide field experiment shows how digital advertising affects voter turnout</title>
+      <link>https://jennyallen.github.io/publication/aggarwal-20232/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jennyallen.github.io/publication/aggarwal-20232/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
