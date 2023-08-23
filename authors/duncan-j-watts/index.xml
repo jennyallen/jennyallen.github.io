@@ -5,12 +5,20 @@
     <link>https://jennyallen.github.io/authors/duncan-j-watts/</link>
       <atom:link href="https://jennyallen.github.io/authors/duncan-j-watts/index.xml" rel="self" type="application/rss+xml" />
     <description>Duncan J Watts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jennyallen.github.io/media/icon_huf7cb82839726509036d215b54a11f2ed_24457_512x512_fill_lanczos_center_3.png</url>
       <title>Duncan J Watts</title>
       <link>https://jennyallen.github.io/authors/duncan-j-watts/</link>
     </image>
+    
+    <item>
+      <title>Quantifying the Impact of Misinformation and Vaccine-Skeptical Content on Facebook</title>
+      <link>https://jennyallen.github.io/publication/allen-2023-vaccine/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://jennyallen.github.io/publication/allen-2023-vaccine/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Addendum to: Research note: Examining potential bias in large-scale censored data</title>
