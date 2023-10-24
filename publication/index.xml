@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Jennifer (Jenny) Allen</title>
+    <title>Publications | Jennifer Allen</title>
     <link>https://jennyallen.github.io/publication/</link>
       <atom:link href="https://jennyallen.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jennyallen.github.io/media/icon_huf7cb82839726509036d215b54a11f2ed_24457_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Quantifying the Impact of Misinformation and Vaccine-Skeptical Content on Facebook</title>
       <link>https://jennyallen.github.io/publication/allen-2023-vaccine/</link>
-      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://jennyallen.github.io/publication/allen-2023-vaccine/</guid>
       <description></description>
     </item>
@@ -69,6 +69,14 @@
     </item>
     
     <item>
+      <title>Expanding the scope of reproducibility research through data analysis replications</title>
+      <link>https://jennyallen.github.io/publication/hofman-2020-expanding/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jennyallen.github.io/publication/hofman-2020-expanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Research note: Examining potential bias in large-scale censored data</title>
       <link>https://jennyallen.github.io/publication/allen-2021-research/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -89,14 +97,6 @@
       <link>https://jennyallen.github.io/publication/allen-2020-evaluating/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://jennyallen.github.io/publication/allen-2020-evaluating/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Expanding the scope of reproducibility research through data analysis replications</title>
-      <link>https://jennyallen.github.io/publication/hofman-2020-expanding/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jennyallen.github.io/publication/hofman-2020-expanding/</guid>
       <description></description>
     </item>
     

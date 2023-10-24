@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Siddhartha Sen | Jennifer (Jenny) Allen</title>
+    <title>Siddhartha Sen | Jennifer Allen</title>
     <link>https://jennyallen.github.io/authors/siddhartha-sen/</link>
       <atom:link href="https://jennyallen.github.io/authors/siddhartha-sen/index.xml" rel="self" type="application/rss+xml" />
     <description>Siddhartha Sen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jennyallen.github.io/media/icon_huf7cb82839726509036d215b54a11f2ed_24457_512x512_fill_lanczos_center_3.png</url>
       <title>Siddhartha Sen</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Expanding the scope of reproducibility research through data analysis replications</title>
       <link>https://jennyallen.github.io/publication/hofman-2020-expanding/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://jennyallen.github.io/publication/hofman-2020-expanding/</guid>
       <description></description>
     </item>

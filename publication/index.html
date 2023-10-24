@@ -256,45 +256,6 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HEYHDYS1FL"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'G-HEYHDYS1FL', {});
-  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
 
@@ -312,7 +273,7 @@
 
   
   
-    <link rel="alternate" href="/publication/index.xml" type="application/rss+xml" title="Jennifer (Jenny) Allen" />
+    <link rel="alternate" href="/publication/index.xml" type="application/rss+xml" title="Jennifer Allen" />
   
 
   
@@ -346,14 +307,14 @@
   
   <meta property="twitter:card" content="summary" />
   
-  <meta property="og:site_name" content="Jennifer (Jenny) Allen" />
+  <meta property="og:site_name" content="Jennifer Allen" />
   <meta property="og:url" content="https://jennyallen.github.io/publication/" />
-  <meta property="og:title" content="Publications | Jennifer (Jenny) Allen" />
+  <meta property="og:title" content="Publications | Jennifer Allen" />
   <meta property="og:description" content="." /><meta property="og:image" content="https://jennyallen.github.io/media/icon_huf7cb82839726509036d215b54a11f2ed_24457_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://jennyallen.github.io/media/icon_huf7cb82839726509036d215b54a11f2ed_24457_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2023-08-23T00:00:00&#43;00:00" />
+      <meta property="og:updated_time" content="2023-10-01T00:00:00&#43;00:00" />
     
   
 
@@ -364,7 +325,7 @@
   
 
 
-  <title>Publications | Jennifer (Jenny) Allen</title>
+  <title>Publications | Jennifer Allen</title>
 
   
   
@@ -459,7 +420,7 @@
 
       
       <div class="d-none d-lg-inline-flex">
-        <a class="navbar-brand" href="/">Jennifer (Jenny) Allen</a>
+        <a class="navbar-brand" href="/">Jennifer Allen</a>
       </div>
       
 
@@ -472,7 +433,7 @@
 
       
       <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-        <a class="navbar-brand" href="/">Jennifer (Jenny) Allen</a>
+        <a class="navbar-brand" href="/">Jennifer Allen</a>
       </div>
       
 
@@ -552,7 +513,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/#featured"><span>Featured Work</span></a>
+            <a class="nav-link " href="/#featured"><span>Featured Publications</span></a>
           </li>
 
           
@@ -656,7 +617,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/uploads/CV_Jennifer_Allen_20230927.pdf"><span>CV</span></a>
+            <a class="nav-link " href="/uploads/Allen_CV_20231024.pdf"><span>CV</span></a>
           </li>
 
           
@@ -1122,7 +1083,7 @@
     
     <a href="/publication/aggarwal-20232/"  class="summary-link">
       <div class="article-style">
-        We present the results of a large, US$8.9million campaign-wide field experiment, conducted among 2 million moderate- and …
+        We present the results of a large, US$8.9 million campaign-wide field experiment, conducted among 2 million moderate- and …
       </div>
     </a>
     
@@ -1397,14 +1358,8 @@
 
 
   
-    
-  
 
 
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://psyarxiv.com/57e3q" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -1414,13 +1369,6 @@
 </a>
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://osf.io/acx3j/" target="_blank" rel="noopener">
-  Code
-</a>
 
 
 
@@ -1431,11 +1379,6 @@
 
 
 
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1145/3491102.3502040" target="_blank" rel="noopener">
-  DOI
-</a>
 
 
 
@@ -1814,6 +1757,140 @@
 
 
 
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/hofman-2020-expanding/" >Expanding the scope of reproducibility research through data analysis replications</a>
+    </div>
+
+    
+    <a href="/publication/hofman-2020-expanding/"  class="summary-link">
+      <div class="article-style">
+        In recent years, researchers in several scientific disciplines have become concerned with published studies replicating less often than …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/jake-m.-hofman/">Jake M. Hofman</a></span>, <span >
+      <a href="/authors/daniel-g.-goldstein/">Daniel G. Goldstein</a></span>, <span >
+      <a href="/authors/siddhartha-sen/">Siddhartha Sen</a></span>, <span >
+      <a href="/authors/forough-poursabzi-sangdeh/">Forough Poursabzi-Sangdeh</a></span>, <span class="author-highlighted">
+      <a href="/authors/admin/">Jennifer Allen</a></span>, <span >
+      <a href="/authors/ling-liang-dong/">Ling Liang Dong</a></span>, <span >
+      <a href="/authors/brenda-fried/">Brenda Fried</a></span>, <span >
+      <a href="/authors/harpreet-gaur/">Harpreet Gaur</a></span>, <span >
+      <a href="/authors/adnan-hoq/">Adnan Hoq</a></span>, <span >
+      <a href="/authors/emeka-mbazor/">Emeka Mbazor</a></span>, <span >
+      <a href="/authors/naomi-moreira/">Naomi Moreira</a></span>, <span >
+      <a href="/authors/cindy-muso/">Cindy Muso</a></span>, <span >
+      <a href="/authors/etta-rapp/">Etta Rapp</a></span>, <span >
+      <a href="/authors/roymil-terrero/">Roymil Terrero</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/hofman-2020-expanding/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1016/j.obhdp.2020.11.003" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.sciencedirect.com/science/article/pii/S0749597820304076" target="_blank" rel="noopener">
+    URL</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2021">
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
 
 <div class="media stream-item view-compact">
   <div class="media-body">
@@ -1968,104 +2045,6 @@
 
 <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/holtz-2020-interdependence/cite.bib">
-  Cite
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-        </div>
-
-        
-
-        
-          
-        
-
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2020">
-          
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/hofman-2020-expanding/" >Expanding the scope of reproducibility research through data analysis replications</a>
-    </div>
-
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span >
-      <a href="/authors/jake-m-hofman/">Jake M Hofman</a></span>, <span >
-      <a href="/authors/daniel-g-goldstein/">Daniel G Goldstein</a></span>, <span >
-      <a href="/authors/siddhartha-sen/">Siddhartha Sen</a></span>, <span >
-      <a href="/authors/forough-poursabzi-sandegh/">Forough Poursabzi-Sandegh</a></span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/hofman-2020-expanding/cite.bib">
   Cite
 </a>
 

@@ -278,45 +278,6 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HEYHDYS1FL"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'G-HEYHDYS1FL', {});
-  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
 
@@ -336,7 +297,7 @@
 
   
   
-    <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Jennifer (Jenny) Allen" />
+    <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Jennifer Allen" />
   
 
   
@@ -370,9 +331,9 @@
   
   <meta property="twitter:card" content="summary" />
   
-  <meta property="og:site_name" content="Jennifer (Jenny) Allen" />
+  <meta property="og:site_name" content="Jennifer Allen" />
   <meta property="og:url" content="https://jennyallen.github.io/" />
-  <meta property="og:title" content="Jennifer (Jenny) Allen" />
+  <meta property="og:title" content="Jennifer Allen" />
   <meta property="og:description" content="." /><meta property="og:image" content="https://jennyallen.github.io/media/icon_huf7cb82839726509036d215b54a11f2ed_24457_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://jennyallen.github.io/media/icon_huf7cb82839726509036d215b54a11f2ed_24457_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
@@ -402,7 +363,7 @@
   
 
 
-  <title>Jennifer (Jenny) Allen</title>
+  <title>Jennifer Allen</title>
 
   
   
@@ -497,7 +458,7 @@
 
       
       <div class="d-none d-lg-inline-flex">
-        <a class="navbar-brand" href="/">Jennifer (Jenny) Allen</a>
+        <a class="navbar-brand" href="/">Jennifer Allen</a>
       </div>
       
 
@@ -510,7 +471,7 @@
 
       
       <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-        <a class="navbar-brand" href="/">Jennifer (Jenny) Allen</a>
+        <a class="navbar-brand" href="/">Jennifer Allen</a>
       </div>
       
 
@@ -590,7 +551,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/#featured" data-target="#featured"><span>Featured Work</span></a>
+            <a class="nav-link " href="/#featured" data-target="#featured"><span>Featured Publications</span></a>
           </li>
 
           
@@ -694,7 +655,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/uploads/CV_Jennifer_Allen_20230927.pdf"><span>CV</span></a>
+            <a class="nav-link " href="/uploads/Allen_CV_20231024.pdf"><span>CV</span></a>
           </li>
 
           
@@ -988,8 +949,8 @@
     <h1>About Me</h1>
 
     <div class="article-style">
-      <p>Hi! I&rsquo;m a computational social scientist interested in digital persuasion, misinformation, and the wisdom of crowds. I&rsquo;m currently in my 5th Year as a PhD Student in Marketing at <a href="https://mitsloan.mit.edu/programs/phd/jenny-allen" target="_blank" rel="noopener">MIT Sloan School of Management</a>, advised by <a href="https://davidrand-cooperation.com/" target="_blank" rel="noopener">David Rand</a>. I am also affiliated with the <a href="https://ide.mit.edu/" target="_blank" rel="noopener">MIT Initiative for the Digital Economy</a>. My research uses computational methods and real-world data to study how digital media contributes to societal problems, and how we can design scalable solutions. In my dissertation work, I combine experiments, crowdsourcing, and natural-language-processing to quantify the impact that COVID vaccine (mis)information on Facebook had on US vaccine refusal.</p>
-<p>Prior to my PhD, I worked as a software engineer at Meta on the <a href="https://about.fb.com/news/tag/civic-engagement/" target="_blank" rel="noopener">News and Civic teams</a>, and then as a research assistant at Microsoft Research with the <a href="https://www.microsoft.com/en-us/research/theme/computational-social-science/people/" target="_blank" rel="noopener">Computational Social Science Group</a>. Before that, I graduated from Yale in 2016 with a degree in Computer Science and Psychology. In my spare time, I enjoy pop culture trivia, yoga, and 5-star NYTimes recipes (wisdom of crowds!).</p>
+      <p>Hi! I&rsquo;m a computational social scientist interested in digital persuasion, misinformation, and the wisdom of crowds. I’m currently in my 5th Year as a PhD Student in Marketing at <a href="https://mitsloan.mit.edu/programs/phd/jenny-allen" target="_blank" rel="noopener">MIT Sloan School of Management</a> advised by <a href="https://davidrand-cooperation.com/" target="_blank" rel="noopener">David Rand</a>. I am also affiliated with the <a href="https://ide.mit.edu/" target="_blank" rel="noopener">MIT Initiative for the Digital Economy</a>. My research uses computational methods and real-world data to study how digital media contributes to societal problems, and how we can design scalable solutions. In my dissertation work, I combine experiments, crowdsourcing, and natural-language-processing to quantify the impact that COVID vaccine (mis)information on Facebook had on US vaccine refusal.</p>
+<p>Prior to my PhD, I worked as a software engineer at Meta on the <a href="https://about.fb.com/news/tag/civic-engagement/" target="_blank" rel="noopener">News and Civic teams</a></a>, and then as a research assistant at Microsoft Research with the <a href="https://www.microsoft.com/en-us/research/theme/computational-social-science/people/" target="_blank" rel="noopener">Computational Social Science Group</a>. Before that, I graduated from Yale in 2016 with a degree in Computer Science and Psychology. In my spare time, I enjoy pop culture trivia, yoga, and 5-star NYTimes recipes (wisdom of crowds!).</p>
 
     </div>
 
@@ -1108,7 +1069,7 @@
       
         
           <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
-            <h1 class="mb-0">Featured Work</h1>
+            <h1 class="mb-0">Featured Publications</h1>
             
           </div>
         
@@ -1200,7 +1161,7 @@
     
       
     
-    August, 2023
+    October, 2023
   </span>
   
 
@@ -1208,7 +1169,7 @@
   <span class="middot-divider"></span>
   <span class="pub-publication">
     
-      <em>Under Review, Science</em>
+      <em>Revise and Resubmit, Science</em>
     
   </span>
   
@@ -1246,7 +1207,7 @@
   
   <a href="/publication/allen-2023-vaccine/"  class="summary-link">
     <div class="article-style">
-      <p>Researchers and public health officials have attributed low uptake of the COVID-19 vaccine in the US to social media misinformation. To evaluate this claim, we introduce a framework combining lab experiments, crowdsourcing, and machine learning to estimate the causal effect of 13,206 vaccine-related URLs shared on Facebook on US vaccination intentions. Our model predicts this content reduced intentions by -2.3 percentage points (95% QI: -3.5, -1.0) per US Facebook user. Strikingly, we find the impact of misinformation was 50X less than that of content not flagged by fact-checkers that nonetheless expressed vaccine skepticism. Although misinformation was significantly more harmful when viewed, its exposure on Facebook was limited. In contrast, mainstream stories highlighting rare vaccine deaths both increased vaccine hesitancy and were among Facebook’s most-viewed stories. Our work suggests that curbing misinformation benefits public health, but highlights the need to scrutinize factually correct but potentially misleading content.</p>
+      <p>Researchers and public health officials have attributed low uptake of the COVID-19 vaccine in the US to social media misinformation. To evaluate this claim, we introduce a framework combining lab experiments, crowdsourcing, and machine learning to estimate the causal effect of 13,206 vaccine-related URLs shared on Facebook on US vaccination intentions. Our model predicts this content reduced intentions by-2.3 percentage points (95% QI:-3.5,-1.0) per US Facebook user. Strikingly, we estimate the impact of misinformation was 50X less than that of content not flagged by fact-checkers that nonetheless expressed vaccine skepticism. Although misinformation was significantly more harmful when viewed, its exposure on Facebook was limited. In contrast, mainstream stories highlighting rare vaccine deaths both increased vaccine hesitancy and were among Facebook’s most-viewed stories. Our work suggests that curbing misinformation benefits public health, but highlights the need to scrutinize factually correct but potentially misleading content.</p>
     </div>
   </a>
   
@@ -1412,7 +1373,7 @@
   
   <a href="/publication/aggarwal-20232/"  class="summary-link">
     <div class="article-style">
-      <p>We present the results of a large, US$8.9million campaign-wide field experiment, conducted among 2 million moderate- and low-information persuadable voters in five battleground states during the 2020 US presidential election. Treatment group participants were exposed to an 8-month-long advertising programme delivered via social media, designed to persuade people to vote against Donald Trump and for Joe Biden. We found no evidence that the programme increased or decreased turnout on average. We found evidence of differential turnout effects by modelled level of Trump support: the campaign increased voting among Biden leaners by 0.4 percentage points (s.e.=0.2pp) and decreased voting among Trump leaners by 0.3 percentage points (s.e.=0.3pp) for a difference in conditional average treatment effects of 0.7 points (t(1,035,571)=−2.09; P=0.036; DIC=0.7points; 95% confidence interval=−0.014 to 0). An important but exploratory finding is that the strongest differential effects appear in early voting data, which may inform future work on early campaigning in a post-COVID electoral environment. Our results indicate that differential mobilization effects of even large digital advertising campaigns in presidential elections are likely to be modest.</p>
+      <p>We present the results of a large, US$8.9 million campaign-wide field experiment, conducted among 2 million moderate- and low-information persuadable voters in five battleground states during the 2020 US presidential election. Treatment group participants were exposed to an 8-month-long advertising programme delivered via social media, designed to persuade people to vote against Donald Trump and for Joe Biden. We found no evidence that the programme increased or decreased turnout on average. We found evidence of differential turnout effects by modelled level of Trump support: the campaign increased voting among Biden leaners by 0.4 percentage points (s.e.=0.2pp) and decreased voting among Trump leaners by 0.3 percentage points (s.e.=0.3pp) for a difference in conditional average treatment effects of 0.7 points (t(1,035,571)=−2.09; P=0.036; points; 95% confidence interval=−0.014 to 0). An important but exploratory finding is that the strongest differential effects appear in early voting data, which may inform future work on early campaigning in a post-COVID electoral environment. Our results indicate that differential mobilization effects of even large digital advertising campaigns in presidential elections are likely to be modest.</p>
     </div>
   </a>
   
@@ -1592,14 +1553,8 @@
 
 
   
-    
-  
 
 
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://psyarxiv.com/57e3q" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -1609,13 +1564,6 @@
 </a>
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://osf.io/acx3j/" target="_blank" rel="noopener">
-  Code
-</a>
 
 
 
@@ -1626,11 +1574,6 @@
 
 
 
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1145/3491102.3502040" target="_blank" rel="noopener">
-  DOI
-</a>
 
 
 
@@ -1858,7 +1801,7 @@
   <span class="middot-divider"></span>
   <span class="pub-publication">
     
-      <em>Science advances</em>
+      <em>Science Advances</em>
     
   </span>
   
@@ -2127,7 +2070,7 @@
   </span>
   (2023).
   <a href="/publication/allen-2023-vaccine/">Quantifying the Impact of Misinformation and Vaccine-Skeptical Content on Facebook</a>.
-  <em>Under Review, Science</em>.
+  <em>Revise and Resubmit, Science</em>.
   
   <p>
 
@@ -2447,14 +2390,8 @@
 
 
   
-    
-  
 
 
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://psyarxiv.com/57e3q" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -2464,13 +2401,6 @@
 </a>
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://osf.io/acx3j/" target="_blank" rel="noopener">
-  Code
-</a>
 
 
 
@@ -2481,11 +2411,6 @@
 
 
 
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1145/3491102.3502040" target="_blank" rel="noopener">
-  DOI
-</a>
 
 
 </p>
@@ -2614,6 +2539,96 @@
 
 
 
+
+</p>
+
+  
+  
+</div>
+
+  
+    
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/authors/jake-m.-hofman/">Jake M. Hofman</a></span>, <span >
+      <a href="/authors/daniel-g.-goldstein/">Daniel G. Goldstein</a></span>, <span >
+      <a href="/authors/siddhartha-sen/">Siddhartha Sen</a></span>, <span >
+      <a href="/authors/forough-poursabzi-sangdeh/">Forough Poursabzi-Sangdeh</a></span>, <span class="author-highlighted">
+      <a href="/authors/admin/">Jennifer Allen</a></span>, <span >
+      <a href="/authors/ling-liang-dong/">Ling Liang Dong</a></span>, <span >
+      <a href="/authors/brenda-fried/">Brenda Fried</a></span>, <span >
+      <a href="/authors/harpreet-gaur/">Harpreet Gaur</a></span>, <span >
+      <a href="/authors/adnan-hoq/">Adnan Hoq</a></span>, <span >
+      <a href="/authors/emeka-mbazor/">Emeka Mbazor</a></span>, <span >
+      <a href="/authors/naomi-moreira/">Naomi Moreira</a></span>, <span >
+      <a href="/authors/cindy-muso/">Cindy Muso</a></span>, <span >
+      <a href="/authors/etta-rapp/">Etta Rapp</a></span>, <span >
+      <a href="/authors/roymil-terrero/">Roymil Terrero</a></span>
+  </span>
+  (2021).
+  <a href="/publication/hofman-2020-expanding/">Expanding the scope of reproducibility research through data analysis replications</a>.
+  <em>Organizational Behavior and Human Decision Processes</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/hofman-2020-expanding/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1016/j.obhdp.2020.11.003" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.sciencedirect.com/science/article/pii/S0749597820304076" target="_blank" rel="noopener">
+    URL</a>
 
 </p>
 
@@ -2793,7 +2808,7 @@
   </span>
   (2020).
   <a href="/publication/allen-2020-evaluating/">Evaluating the fake news problem at the scale of the information ecosystem</a>.
-  <em>Science advances</em>.
+  <em>Science Advances</em>.
   
   <p>
 
@@ -2852,68 +2867,6 @@
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1126/sciadv.aay3539" target="_blank" rel="noopener">
   DOI
 </a>
-
-
-</p>
-
-  
-  
-</div>
-
-  
-    
-
-
-<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-  <span >
-      <a href="/authors/jake-m-hofman/">Jake M Hofman</a></span>, <span >
-      <a href="/authors/daniel-g-goldstein/">Daniel G Goldstein</a></span>, <span >
-      <a href="/authors/siddhartha-sen/">Siddhartha Sen</a></span>, <span >
-      <a href="/authors/forough-poursabzi-sandegh/">Forough Poursabzi-Sandegh</a></span>
-  </span>
-  (2020).
-  <a href="/publication/hofman-2020-expanding/">Expanding the scope of reproducibility research through data analysis replications</a>.
-  <em>Companion Proceedings of the Web Conference 2020</em>.
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/hofman-2020-expanding/cite.bib">
-  Cite
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </p>

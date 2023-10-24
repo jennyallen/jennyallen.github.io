@@ -256,45 +256,6 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HEYHDYS1FL"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'G-HEYHDYS1FL', {});
-  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
 
@@ -312,7 +273,7 @@
 
   
   
-    <link rel="alternate" href="/publication_types/index.xml" type="application/rss+xml" title="Jennifer (Jenny) Allen" />
+    <link rel="alternate" href="/publication_types/index.xml" type="application/rss+xml" title="Jennifer Allen" />
   
 
   
@@ -346,14 +307,14 @@
   
   <meta property="twitter:card" content="summary" />
   
-  <meta property="og:site_name" content="Jennifer (Jenny) Allen" />
+  <meta property="og:site_name" content="Jennifer Allen" />
   <meta property="og:url" content="https://jennyallen.github.io/publication_types/" />
-  <meta property="og:title" content="Publication_types | Jennifer (Jenny) Allen" />
+  <meta property="og:title" content="Publication_types | Jennifer Allen" />
   <meta property="og:description" content="." /><meta property="og:image" content="https://jennyallen.github.io/media/icon_huf7cb82839726509036d215b54a11f2ed_24457_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://jennyallen.github.io/media/icon_huf7cb82839726509036d215b54a11f2ed_24457_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2023-08-23T00:00:00&#43;00:00" />
+      <meta property="og:updated_time" content="2023-10-01T00:00:00&#43;00:00" />
     
   
 
@@ -364,7 +325,7 @@
   
 
 
-  <title>Publication_types | Jennifer (Jenny) Allen</title>
+  <title>Publication_types | Jennifer Allen</title>
 
   
   
@@ -459,7 +420,7 @@
 
       
       <div class="d-none d-lg-inline-flex">
-        <a class="navbar-brand" href="/">Jennifer (Jenny) Allen</a>
+        <a class="navbar-brand" href="/">Jennifer Allen</a>
       </div>
       
 
@@ -472,7 +433,7 @@
 
       
       <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-        <a class="navbar-brand" href="/">Jennifer (Jenny) Allen</a>
+        <a class="navbar-brand" href="/">Jennifer Allen</a>
       </div>
       
 
@@ -552,7 +513,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/#featured"><span>Featured Work</span></a>
+            <a class="nav-link " href="/#featured"><span>Featured Publications</span></a>
           </li>
 
           
@@ -656,7 +617,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/uploads/CV_Jennifer_Allen_20230927.pdf"><span>CV</span></a>
+            <a class="nav-link " href="/uploads/Allen_CV_20231024.pdf"><span>CV</span></a>
           </li>
 
           
@@ -874,7 +835,7 @@
     
       
     
-    Aug 22, 2023
+    Jul 19, 2023
   </span>
   
 
